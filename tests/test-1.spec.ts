@@ -9,5 +9,5 @@ test.only('test', async ({ page }) => {
   await page.locator('[data-test="password"]').fill('secret_sauce');
   await page.locator('[data-test="login-button"]').click();
   console.log("message");
-  
+  console.log("3rd try");
 });
