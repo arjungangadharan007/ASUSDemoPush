@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6490","test","chromium","Thu Sep 12 20:46:46 IST 2024","passed","Thu Sep 12 20:46:53 IST 2024","","test-1.spec.ts","",""
+"","5730","test","firefox","Thu Sep 12 20:46:46 IST 2024","passed","Thu Sep 12 20:46:52 IST 2024","","test-1.spec.ts","",""
+"","7681","test","webkit","Thu Sep 12 20:46:46 IST 2024","passed","Thu Sep 12 20:46:54 IST 2024","","test-1.spec.ts","",""
